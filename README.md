@@ -37,14 +37,14 @@ Dev:
 
 ## Configurar application.properties (variáveis de ambiente)
 
-mercado.pago.user.id= **User ID** em -> 
-https://www.mercadopago.com.br/developers/panel/app/{seu_appId}
+mercado.pago.user.id= 
+**User ID** em -> https://www.mercadopago.com.br/developers/panel/app/{seu_appId}
 
-mercado.pago.signature= **Assinatura secreta** em -> 
-https://www.mercadopago.com.br/developers/panel/app/{seu_appId}/webhooks
+mercado.pago.signature= 
+**Assinatura secreta** em -> https://www.mercadopago.com.br/developers/panel/app/{seu_appId}/webhooks
 
-mercado.pago.pos= **Pos ID** do seu caixa criado em -> 
-https://www.mercadopago.com.br/stores
+mercado.pago.pos= 
+**Pos ID** do seu caixa criado em -> https://www.mercadopago.com.br/stores
 
-mercado.pago.token= **Access Token** em -> 
-https://www.mercadopago.com.br/developers/panel/app/{seu_appId}/credentials/production
+mercado.pago.token= 
+**Access Token** em -> https://www.mercadopago.com.br/developers/panel/app/{seu_appId}/credentials/production
