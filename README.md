@@ -3,12 +3,12 @@
 ## Sobre o Projeto
 Fiz esse projeto como base para uma aplicação freelance de um cliente que precisava de integração com *API's* de meios de pagamento,
 consiste em um **boilerplate** que gera pagamentos personalizados por meio de QR's, bem como realiza a validação desses pagamentos usando criptografia e
-*WEBHOOKS*
+*WEBHOOKS*.
 
 ## Funcionalidades
-- **Gera um pagamento** de pessoas com múltiplos endereços
-- **Recebe e valida WebHooks** de registros
-- **Consulta status do pagamento** de todas as informações
+- **Gera um pagamento personalizado**
+- **Recebe e valida WebHooks de pagamento**
+- **Consulta status do pagamento**
 
 ## Tecnologias Utilizadas
 
